@@ -96,7 +96,15 @@ Instructor: [Christina Reissel](https://www.linkedin.com/in/christina-reissel-06
 
 Materials: [View here](https://github.com/chreissel/sbi-tutorial-iaifi26)
 
-## 5. Hackathon
+## Healthy Minds for Masterminds Workshop
+
+Presented by Sarah Speziali
+
+Slides: [View here](https://www.dropbox.com/scl/fi/2uh1hoal2obhi43to8a98/HealthyMindsForMastermindsIAIFI.pdf?rlkey=wczvc9ofzblq8vflmouw3l3c9&dl=0)
+
+Resources: [View here](https://www.dropbox.com/scl/fi/xagxosdxq6s5l0u4yzwju/Apps-WebsitesIAIFI.pdf?rlkey=qi7it6bsrxx8fhq1xffbryhr5&dl=0)
+
+## Hackathon
 
 At the end of the Hackathon on Friday, August 7, we will have a block for presentations of work done on these topics. Forming groups is strongly encouraged!
 
@@ -119,9 +127,11 @@ Enter your team here by 10am on Friday, August 7: https://docs.google.com/forms/
 - Best visualization
 - Best team effort
 
-## 6. Closing
+## Closing
 
-Presented by Mike Williams: *Slides to come.*
+Presented by Mike Williams.
+
+Slides: [View here](https://docs.google.com/presentation/d/1t_gO3LMGRMtvS77IceW9uyT13CGt4JQ2/edit?usp=sharing&ouid=107650713859084891843&rtpof=true&sd=true)
 
 ## NSF ACCESS Instructions
 
